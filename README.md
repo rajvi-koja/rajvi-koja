@@ -13,7 +13,7 @@
 *   Check out my [cpp-dap-portfolio](https://github.com/rajvi-koja/cpp-dap-portfolio) for Data Structures & Algorithms projects.
 
 ### 📬 Connect with me
-*   *LinkedIn:* [Coming Soon! 🚧]
+*   *LinkedIn:* [https://www.linkedin.com/in/rajvi-koja-74610740b🚧]
 <!--
 **rajvi-koja/rajvi-koja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
