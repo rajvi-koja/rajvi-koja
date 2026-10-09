@@ -6,7 +6,7 @@
 *   *Consistency:* I am dedicated to building and committing to projects *consistently*.
 
 ### 🛠️ Technical Toolbox
-*   *Languages:* C++, SQL
+*   *Languages:* C++, SQL, Python
 *   *Interests:* Database Systems and Digital Entrepreneurship.
 
 ### 🚀 Projects & Work
